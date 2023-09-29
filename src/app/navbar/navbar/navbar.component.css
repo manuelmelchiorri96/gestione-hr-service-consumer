@@ -1,0 +1,9 @@
+.custom-nav-item {
+  width: 25%;
+}
+
+.custom-nav-link {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
